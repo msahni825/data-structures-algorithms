@@ -47,14 +47,14 @@ void isPermutation(string str1,string str2){
 }
 
 	//APPROACH 2: Sorting 		TIME: O(nlgn+mlgm)	n:len1,m:len2	SPACE: O(1)
-	sort(str1.begin(),str1.end());
+	/*sort(str1.begin(),str1.end());
 	sort(str2.begin(),str2.end());
 	if(str1!=str2){
 		cout<<"Not a Permutation"<<endl;
 	}
 	else{
 		cout<<"Is a Permutation"<<endl;
-	}	
+	}	*/
 
 int main(){
 	string str1,str2;
