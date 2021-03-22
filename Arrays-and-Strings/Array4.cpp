@@ -21,7 +21,7 @@ bool checkMaxOneOdd(map<char,int> freqMap){
 }
 
 //APPROACH 1: Hashtable			TIME: O(n)				SPACE:O(n)
-void isPalindromePermutation(string input){
+/*void isPalindromePermutation(string input){
 	int len=input.length();
 	if(len==0 || len==1){
 		cout<<"Is Palindrome Permutation!"<<endl;
@@ -38,7 +38,7 @@ void isPalindromePermutation(string input){
 	else{
 		cout<<"Is a Palindrome Permutation!"<<endl;
 	}
-}
+}*/
 
 
 //APPROACH 2: Hashmap eliminated					TIME: O(n)				SPACE:O(1)
