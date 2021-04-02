@@ -1,2 +1,2 @@
 # ProblemSolving
-Implementation of problems in c++ and python
+Implementation of problems in c++ 
