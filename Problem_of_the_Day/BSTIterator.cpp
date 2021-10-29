@@ -18,7 +18,6 @@ public:
             root=root->left;
         }
     }
-    
     BSTIterator(TreeNode* root) {
         helper(root);
     }
